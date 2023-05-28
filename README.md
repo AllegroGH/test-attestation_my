@@ -1,3 +1,6 @@
+# Бэйджи
+[![Maintainability](https://api.codeclimate.com/v1/badges/c8541c7a8a585b09702a/maintainability)](https://codeclimate.com/github/AllegroGH/test-attestation_my/maintainability)
+
 # Требования
 
 * Нельзя менять уже написанный код, тесты и другие файлы добавленные в проект
