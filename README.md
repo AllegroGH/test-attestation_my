@@ -1,4 +1,5 @@
 # Бейджи
+[![build](https://github.com/AllegroGH/test-attestation_my/actions/workflows/build.yml/badge.svg?branch=new1)](https://github.com/AllegroGH/test-attestation_my/actions/workflows/build.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/c8541c7a8a585b09702a/maintainability)](https://codeclimate.com/github/AllegroGH/test-attestation_my/maintainability)
 
 # Требования
