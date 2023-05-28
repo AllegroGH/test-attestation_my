@@ -1,6 +1,5 @@
 # Бейджи
 [![Maintainability](https://api.codeclimate.com/v1/badges/c8541c7a8a585b09702a/maintainability)](https://codeclimate.com/github/AllegroGH/test-attestation_my/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/c8541c7a8a585b09702a/test_coverage)](https://codeclimate.com/github/AllegroGH/test-attestation_my/test_coverage)
 
 # Требования
 

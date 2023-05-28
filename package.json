@@ -9,10 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sseezov/tst/issues"
-  },
-  "homepage": "https://github.com/sseezov/tst#readme",
   "dependencies": {
     "fast-check": "^3.8.0",
     "jest": "^29.5.0",

@@ -10,6 +10,3 @@ test-steps:
 	npx jest --testNamePattern step3
 	npx jest --testNamePattern step4
 	npx jest --testNamePattern step5
-
-test-coverage: # запуск тестов с измерением покрытия
-	npm test --  --coverage
