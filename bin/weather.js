@@ -3,6 +3,7 @@
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import fs from 'fs';
+// eslint-disable-next-line no-unused-vars
 import _ from 'lodash';
 import solution from '../index.js';
 
