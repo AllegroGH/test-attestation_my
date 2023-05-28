@@ -7,10 +7,6 @@
   "scripts": {
     "test": "npx jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sseezov/tst.git"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
